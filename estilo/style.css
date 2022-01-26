@@ -158,22 +158,3 @@ div > img {
     max-height: 339px;
 }
 
-#recomendações > h3 {
-    margin-top: 30px;
-    font-family: 'font-header';
-    text-align: center;
-    font-size: 9vw;
-    margin-bottom: 30px;
-}
-#madagascar {
-    background-color: #C4C4C4;
-    display: flex;
-    justify-content: space-between;
-    text-align: justify;
-    font-size: 1.3em;
-    margin-right: 50px;
-}
-#madagascar > p {
-    padding-left: 30px;
-    padding-right: 30px;
-}
